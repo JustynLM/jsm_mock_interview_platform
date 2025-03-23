@@ -1,8 +1,6 @@
-const config = {
-  plugins: [
-    "@tailwindcss/postcss",
-    "tailwindcss-animate", // Use the string format
-  ],
-};
-
-export default config;
+export default {
+  plugins: {
+    '@tailwindcss/postcss': {},
+    'autoprefixer': {},
+  },
+}
