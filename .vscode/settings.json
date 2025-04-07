@@ -1,0 +1,8 @@
+{
+    "tailwindCSS.experimental.classRegex": [],
+    "tailwindCSS.validate": true,
+    "css.validate": false,
+    "files.associations": {
+      "*.css": "tailwindcss"
+    }
+  }
